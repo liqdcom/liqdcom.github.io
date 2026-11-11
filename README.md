@@ -4,36 +4,36 @@ Liqd casino and bookmaker.
 
 link  ->  [liqd casino](https://liqd.bet)
 
-https://liqd.bet?page=live-support
+[Live Support](https://liqd.bet?page=live-support)
 
-https://liqd.bet?page=responsible-gambling
+[Responsible Gambling](https://liqd.bet?page=responsible-gambling)
 
-https://liqd.bet?page=provably-fair
+[Provably Fair](https://liqd.bet?page=provably-fair)
 
-https://liqd.bet?page=terms-of-service
+[Terms of Service](https://liqd.bet?page=terms-of-service)
 
-https://liqd.bet?page=cookie-policy
+[Cookie Policy](https://liqd.bet?page=cookie-policy)
 
-https://liqd.bet?page=privacy-policy
+[Privacy Policy](https://liqd.bet?page=privacy-policy)
 
-https://liqd.bet?page=aml-policy
+[AML Policy](https://liqd.bet?page=aml-policy)
 
-https://liqd.bet?page=sportsbook-rules
+[Sportsbook Rules](https://liqd.bet?page=sportsbook-rules)
 
-https://liqd.bet?id=company
+[Company](https://liqd.bet?id=company)
 
-https://liqd.bet?id=twitter
+[Twitter](https://liqd.bet?id=twitter)
 
-https://liqd.bet?id=twitch
+[Twitch](https://liqd.bet?id=twitch)
 
-https://liqd.bet?id=telegram
+[Telegram](https://liqd.bet?id=telegram)
 
-https://liqd.bet?id=map
+[Map](https://liqd.bet?id=map)
 
-https://liqd.bet?id=reviews
+[Liqd reviews](https://liqd.bet?id=reviews)
 
-https://liqd.bet?id=links
+[Liqd links](https://liqd.bet?id=links)
 
-https://liqd.bet?id=reviews-vk
+[Liqd reviews](https://liqd.bet?id=reviews-vk)
 
-https://liqd.bet?id=vk-group
+[Liqd vk group](https://liqd.bet?id=vk-group)
