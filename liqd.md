@@ -1,6 +1,6 @@
 Liqd
 
-[Liqd casino and bookmaker](https://liqdcomgithub.io/README.md "LIQD")
+[Liqd casino and bookmaker](https://liqdcom.github.io/README.md "LIQD")
 
 link  ->  [liqd casino](https://liqd.bet)
 
