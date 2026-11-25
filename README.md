@@ -3,7 +3,6 @@ Liqd — all links
 Profiles / socials / platforms
 - [Otzovik](https://otzovik.com/profile/liqd)
 - [GitHub Pages](https://liqdcom.github.io/)
-- [GitHub Pages — liqd.md](https://liqdcom.github.io/liqd.md)
 - [4PDA profile](https://4pda.to/forum/index.php?showuser=12653969)
 - [Twitch](https://www.twitch.tv/liqdcom/about)
 - [YouTube](https://www.youtube.com/@liqd_bet)
